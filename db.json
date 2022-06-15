@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "some books am reading",
+      "author": "With their authors"
+    },
+    {
+      "id": 2,
+      "title": "Rust for Rustaceans",
+      "author": "Jon Gjengset"
+    },
+    {
+      "id": 3,
+      "title" : "Learning malware analysis",
+      "author": "Monnappa K A"
+    },
+    {
+      "id": 4,
+      "title": "You dont know JS",
+      "author": "Kyle Simpson"
+    },
+    {
+      "id": 5,
+      "title": "rootkit and bootkits",
+      "author": "Alex Matrosov, Eugene Rodionov and Sergy Bratus"
+    }
+
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

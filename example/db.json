@@ -2,13 +2,13 @@
   "articles": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "title": "Read Rust",
+      "content": "Crust of rust by Jon Gest"
     },
     {
       "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "title": "You dont know js",
+      "content": "Read this book to get better understanding of js"
     }
   ]
 }
